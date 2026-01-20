@@ -1,3 +1,8 @@
+Business Objective
+Analyze customer purchasing behavior to identify key revenue drivers, engagement patterns, and customer preferences, enabling data-driven business decision-making.
+This project follows a real-world analytics workflow, moving from data exploration to SQL analysis and finally to executive-level visualization.
+
+
 1. Dataset Overview
 -Records: ~3,900 customer transactions
 -Key attributes:
@@ -29,3 +34,17 @@ Clothing and Accessories dominate category revenue
 Purchase frequency shows consistent revenue contribution across segments
 Seasonal revenue remains relatively stable, with slight peaks
 Gender contribution is balanced, suggesting broad product appeal
+
+
+5. Tools & Technologies
+-Python: Pandas, Matplotlib, Seaborn
+-SQL: PostgreSQL
+-Visualization: Power BI (DAX, interactive dashboards)
+-Version Control: Git & GitHub
+
+
+6. Project Highlights
+-End-to-end analytics workflow (EDA → SQL → BI)
+-Business-focused analysis rather than tool-centric reporting
+-Clean, single-page dashboard designed for decision-makers
+-Modular and well-structured repository
